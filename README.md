@@ -1,6 +1,8 @@
 # Images-Jpg-Png-Gif-File-Carving
 
-(/home/mani/Pictures/carve.png)
+See the execution screenshot below.
+
+https://drive.google.com/file/d/1eHhsVSY82sqS5Mi5oz3eJZWiQV6ac0KA/view?usp=sharing
 
 
 This code when run with Python3 interpreter takes any no of disk image files as input and can carve jpg, png and gif files in the image. The Carving Path is a directory to store retrieved or carved files. 
