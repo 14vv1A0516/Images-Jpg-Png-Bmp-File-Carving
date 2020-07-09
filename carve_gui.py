@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter.filedialog import askdirectory
 from tkinter import messagebox, filedialog
 import tkinter as tk
-import string,math,easygui,binascii,hashlib,os,errno,imghdr,time,sys, threading
+import string,math,easygui,binascii,hashlib,os,errno,imghdr,time,sys
 
 evidence = []
 inpdir = ''
